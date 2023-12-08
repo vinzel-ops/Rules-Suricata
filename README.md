@@ -16,16 +16,16 @@ python3 gabungkan.py --path=/path/to/rules
 
 | Aturan | Jumlah |
 | ------ | ------ |
-| linux-structures.rules | 16 |
-| CNVD-2021.rules | 10 |
-| CVE-2008.rules | 9 |
-| CVE-2013.rules | 8 |
-| sql-injection.rules | 6 |
-| CNVD-2020.rules | 5 |
-| miscellaneous.rules | 4 |
-| CVE-2007.rules | 4 |
-| CVE-2020.rules | 4 |
-| CVE-2002.rules | 4 |
+| linux-structures.rules | 0 |
+| CNVD-2021.rules | 0 |
+| CVE-2008.rules | 0 |
+| CVE-2013.rules | 0 |
+| sql-injection.rules | 0 |
+| CNVD-2020.rules | 0 |
+| miscellaneous.rules | 0 |
+| CVE-2007.rules | 0 |
+| CVE-2020.rules | 0 |
+| CVE-2002.rules | 0 |
 
 ## To-Do
 
