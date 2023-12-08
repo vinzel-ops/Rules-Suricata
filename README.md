@@ -6,10 +6,10 @@ Repositori ini berisi koleksi besar aturan untuk sistem deteksi intrusi jaringan
 
 ## Penggunaan
 
-`main.py` akan menggabungkan semua aturan menjadi satu file.
+`gabungkan.py` akan menggabungkan semua aturan menjadi satu file.
 
 ```python
-python3 main.py --path=/path/to/rules
+python3 gabungkan.py --path=/path/to/rules
 ```
 
 ## Statistik Aturan Suricata
