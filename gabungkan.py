@@ -39,12 +39,12 @@ def main(argv):
     except getopt.GetoptError as err:
         # Menampilkan pesan error dan instruksi penggunaan jika ada kesalahan argumen
         print(err)
-        print('Usage: main.py -p <outputfile>')
+        print('Usage: gabungkan.py -p <outputfile>')
         sys.exit(2)
 
     for opt, arg in opts:
         if opt == '-h':
-            print('Usage: main.py -p <outputfile>')
+            print('Usage: gabungkan.py -p <outputfile>')
             sys.exit()
         elif opt in ("-p", "--path"):
             path = arg
@@ -52,7 +52,7 @@ def main(argv):
             break
     else:
         # Menampilkan instruksi penggunaan jika tidak ada argumen yang diberikan
-        print('Usage: main.py -p <outputfile>')
+        print('Usage: gabungkan.py -p <outputfile>')
         sys.exit()
 
 if __name__ == "__main__":
