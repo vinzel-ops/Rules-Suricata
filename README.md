@@ -22,7 +22,7 @@ python3 gabungkan.py --path=/path/to/rules
 
 ## To-Do
 
-- [ ] Menambahkan lebih banyak aturan [cvnd](https://github.com/projectdiscovery/nuclei-templates/tree/main/http/cvnd).
+- [ ] Menambahkan lebih banyak aturan [cvnd](https://github.com/projectdiscovery/nuclei-templates/tree/main/http/cnvd).
 - [ ] Menambahkan lebih banyak aturan [cves](https://github.com/projectdiscovery/nuclei-templates/tree/main/http/cves).
 - [ ] Menambahkan lebih banyak aturan [default-logins](https://github.com/projectdiscovery/nuclei-templates/tree/main/http/default-logins).
 - [ ] Menambahkan lebih banyak aturan [miscellaneous](https://github.com/projectdiscovery/nuclei-templates/tree/main/http/miscellaneous).
